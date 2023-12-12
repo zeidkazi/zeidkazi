@@ -5,7 +5,7 @@ I'm Zeid !
 I'm a Full Stack Developer and a B.Tech CSE Final Year Student. I love creating web applications that solve real-world problems and make people's lives easier.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yash-dev/](https://www.linkedin.com/in/zeid-kazi-10003b2a4/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeid-kazi-10003b2a4/) 
 
 ![](https://komarev.com/ghpvc/?username=zeidkazi)
 
